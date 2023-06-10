@@ -1,2 +1,2 @@
 my first README
-my editted README file 
+i just my editted README file 
